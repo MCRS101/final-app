@@ -234,12 +234,7 @@ class _LoginPageState extends State<LoginPage> {
 
                 const SizedBox(height: 20),
 
-                const Text(
-                  'Demo Login: admin / 1234',
-                  style: TextStyle(
-                    color: Colors.grey,
-                  ),
-                ),
+               
               ],
             ),
           ),
